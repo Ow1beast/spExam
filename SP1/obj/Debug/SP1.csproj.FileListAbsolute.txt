@@ -1,0 +1,10 @@
+C:\Users\Alibek\source\repos\SP1\SP1\bin\Debug\SP1.exe.config
+C:\Users\Alibek\source\repos\SP1\SP1\bin\Debug\SP1.exe
+C:\Users\Alibek\source\repos\SP1\SP1\bin\Debug\SP1.pdb
+C:\Users\Alibek\source\repos\SP1\SP1\obj\Debug\SP1.csprojAssemblyReference.cache
+C:\Users\Alibek\source\repos\SP1\SP1\obj\Debug\SP1.Form1.resources
+C:\Users\Alibek\source\repos\SP1\SP1\obj\Debug\SP1.Properties.Resources.resources
+C:\Users\Alibek\source\repos\SP1\SP1\obj\Debug\SP1.csproj.GenerateResource.cache
+C:\Users\Alibek\source\repos\SP1\SP1\obj\Debug\SP1.csproj.CoreCompileInputs.cache
+C:\Users\Alibek\source\repos\SP1\SP1\obj\Debug\SP1.exe
+C:\Users\Alibek\source\repos\SP1\SP1\obj\Debug\SP1.pdb
